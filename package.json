@@ -1,0 +1,24 @@
+{
+  "name": "discordbot-nodejs",
+  "version": "1.0.1",
+  "description": "Learning how to NodeJS",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "firebase": "^8.2.9",
+    "gamedig": "^2.0.24",
+    "node-fetch": "^2.6.1",
+    "sendmail": "^1.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon index.js"
+  },
+  "author": "IvanLeviathan",
+  "license": "MIT"
+}

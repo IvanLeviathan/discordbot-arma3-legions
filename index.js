@@ -167,4 +167,4 @@ client.on("ready", async () => {
 
 //start bot
 client.login(config.BOT_TOKEN);
-client.login(config.BOT_DEV_TOKEN);
+//client.login(config.BOT_DEV_TOKEN);
